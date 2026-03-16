@@ -77,21 +77,6 @@ This reduces unnecessary computations during program execution.
 
 ---
 
-## How to Run
-
-Compile the program:
-
-g++ main.cpp -o compiler
-
-Run the program:
-
-./compiler
-
-Enter expression:
-
-2 + 3
-
----
 
 ## Learning Outcomes
 
